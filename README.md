@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RahulMukeshSingh
 - 👀 I’m interested in Programming complex backend projects
-- 🌱 I’m currently learning Django (Python), Node.js and Machine Learning
+- 🚀 I'm build Django(Python) projects.
+- 🌱 I’m currently learning Node.js and Machine Learning
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 reach me out at rahulmukeshsingh12@gmail.com
  
